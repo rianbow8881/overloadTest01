@@ -1,3 +1,5 @@
+package Recursion;
+
 /**
  *
  *
@@ -9,7 +11,7 @@ public class recursionTest02 {
 
     public static void main(String[] args) {
         int n = 5;
-        int s = sum(n);
+        int s = recursionTest02.sum(n);
         System.out.println(s);
     }
 

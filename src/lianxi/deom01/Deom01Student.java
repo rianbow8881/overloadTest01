@@ -1,9 +1,6 @@
 package lianxi.deom01;
 
-/**
- * @outhor Rainbow
- * @date 2020/2/5 - 1:45 下午
- */
+
 public class Deom01Student {
 
 

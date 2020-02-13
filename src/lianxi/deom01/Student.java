@@ -1,9 +1,8 @@
 package lianxi.deom01;
+// private    get set 方法
 
-/**
- * @outhor Rainbow
- * @date 2020/2/5 - 2:06 下午
- */
+
+
 public class Student {
     private  String name ;//姓名
     private int age;//年龄
