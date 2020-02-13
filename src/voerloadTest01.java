@@ -8,7 +8,7 @@ public class voerloadTest01 {
         System.out.println(result1);
         double result2 =sumDouble(1.0,2.0);
         System.out.println(result2);
-        long result3 = sumLong( 1l, 2l );
+        long result3 = sumLong( 1L, 2L );
         System.out.println(result3);
     }
 
